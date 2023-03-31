@@ -1,0 +1,28 @@
+
+*
+{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  background-color: black;
+}
+h1{
+  width: 22%;
+  padding: 20px 0;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  margin: auto;
+  text-align: center;
+  background-color: teal;
+  border-radius: 10px;
+}
+.Stacks
+{
+  margin: auto;
+}
+.sec
+{
+ 
+  margin: 19% 0;
+}
